@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "460033893781",
+    "firebase_url": "https://ass-168-default-rtdb.firebaseio.com",
+    "project_id": "ass-168",
+    "storage_bucket": "ass-168.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460033893781:android:e9285f66c5ce7c32ef829c",
+        "android_client_info": {
+          "package_name": "com.example.ass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBzshPsITjo-7WO7Y2fqKyUVF327-vV-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460033893781:android:921b1e26506d3e6eef829c",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBzshPsITjo-7WO7Y2fqKyUVF327-vV-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
